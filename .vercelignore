@@ -1,0 +1,12 @@
+.git
+.gitignore
+.vercel
+.vscode
+README.md
+settings.json
+node_modules
+qa
+CONTENT-SOURCES.md
+*.log
+.DS_Store
+Thumbs.db
